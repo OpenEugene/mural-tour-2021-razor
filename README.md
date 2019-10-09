@@ -1,2 +1,2 @@
-# mural-wayfinding-2021-api
-back end for the maps app.
+# mural-wayfinding-2021-we
+back end and web site for the maps app.
