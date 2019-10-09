@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuralTour", "MuralTour.csproj", "{3CF955A3-041C-4FD8-B5E1-C5502F3E3327}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CF955A3-041C-4FD8-B5E1-C5502F3E3327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF955A3-041C-4FD8-B5E1-C5502F3E3327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF955A3-041C-4FD8-B5E1-C5502F3E3327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF955A3-041C-4FD8-B5E1-C5502F3E3327}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0E632A9-361A-4AC7-929A-4ACE4A4C0DE3}
+	EndGlobalSection
+EndGlobal
