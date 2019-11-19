@@ -44,5 +44,10 @@ class IndexPage {
     }
 }
 
-let index_page = new IndexPage();
-// window.onload
+let index_page;
+/*
+window.onload => {
+    index_page = new IndexPage();
+    index_page.create_event_handlers();
+}
+*/
