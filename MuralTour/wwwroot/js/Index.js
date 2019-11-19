@@ -46,7 +46,8 @@ class IndexPage {
 
 let index_page;
 /*
-window.onload => {
+window.onload = () => {
+    Console.Log("Class is loading.")
     index_page = new IndexPage();
     index_page.create_event_handlers();
 }
