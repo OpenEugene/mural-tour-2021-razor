@@ -45,10 +45,9 @@ class IndexPage {
 }
 
 let index_page;
-/*
+
 window.onload = () => {
-    Console.Log("Class is loading.")
+    console.log("Class is loading.")
     index_page = new IndexPage();
-    index_page.create_event_handlers();
+    //index_page.create_event_handlers();
 }
-*/
